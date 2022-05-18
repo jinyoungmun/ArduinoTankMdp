@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for MagicRC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MagicRC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setSpeed	KEYWORD2
+run	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+turnLeft	KEYWORD2
+turnRight	KEYWORD2
+stop	KEYWORD2
